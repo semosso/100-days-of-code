@@ -9,6 +9,8 @@
 
 #**Link to work:** [Calculator App](http://www.example.com)-->
 
+# Goals
+
 **Day 1: December 20, 2018, Thursday**
 
 **Progress**: During off time at work, did most of the Basic HTML and HTML5 tutorial on freeCodeCamp.
