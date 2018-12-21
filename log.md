@@ -9,10 +9,10 @@
 
 #**Link to work:** [Calculator App](http://www.example.com)-->
 
-<b>Day 1: December 20, 2018, Thursday</b>
+**Day 1: December 20, 2018, Thursday
 
-Progress: During off time at work, did most of the Basic HTML and HTML5 tutorial on freeCodeCamp.
+**Progress**: During off time at work, did most of the Basic HTML and HTML5 tutorial on freeCodeCamp.
 
-Thoughts: Doubtful about whether I should keep working on front or back-end stuff, especially if I'll be able to find back-end projects to keep me motivated throughout.
+**Thoughts**: Doubtful about whether I should keep working on front or back-end stuff, especially if I'll be able to find back-end projects to keep me motivated throughout.
 
-<b>Day 2: December 21, 2018, Thursday</b>
+**Day 2: December 21, 2018, Thursday**
