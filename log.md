@@ -9,7 +9,7 @@
 
 #**Link to work:** [Calculator App](http://www.example.com)-->
 
-# Goals
+## Goals
 
 **Day 1: December 20, 2018, Thursday**
 
