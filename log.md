@@ -13,7 +13,7 @@
 
 Off the top of my head and without any basis to set these, here goes:
 
-1. Five small Python project
+1. Five small Python projects
 2. One mid Python project
 3. One mid Python project envolving data analysis
 4. Five small front-end projects
