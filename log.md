@@ -11,6 +11,15 @@
 
 ## Goals
 
+Off the top of my head and without any basis to set these, here goes:
+
+1. Five small Python project
+2. One mid Python project
+3. One mid Python project envolving data analysis
+4. Five small front-end projects
+
+## Daily logs (progress, thoughts)
+
 **Day 1: December 20, 2018, Thursday**
 
 **Progress**: During off time at work, did most of the Basic HTML and HTML5 tutorial on freeCodeCamp.
