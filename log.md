@@ -28,6 +28,8 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Day 2: December 21, 2018, Thursday**
 
-**Progress**: During off time at work, finished Basic HTML and HTML5 tutorial on freeCodeCamp, and got about 25% of the Basic CSS.
+**Progress**: During off time at work, finished Basic HTML and HTML5 tutorial on freeCodeCamp, and got about 15% of the Basic CSS (up to about the padding exercises). Later at home, did exercises 27 through 31 of LPTHW.
 
-**Thoughts**: cool to start understanding how the syntax works, and also how Python is so fucking easier to write.
+**Thoughts**: Cool to start understanding how HTML/CSS syntax works, and also to notice how Python is so fucking easier to write. In LPTHW, excited to begin using logic, will be important to keep in mind ideas of BRANCHES and NESTING.
+
+**Projects**: Very dumb study drill from LPTHW just to test if-elif-else statements: <a href=https://github.com/semosso/lpthw/blob/master/ex31_new-game.py>exercise 31</a>
