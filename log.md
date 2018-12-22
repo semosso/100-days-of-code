@@ -27,3 +27,7 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Doubtful about whether I should keep working on front or back-end stuff, especially if I'll be able to find back-end projects to keep me motivated throughout.
 
 **Day 2: December 21, 2018, Thursday**
+
+**Progress**: During off time at work, finished Basic HTML and HTML5 tutorial on freeCodeCamp, and got about 25% of the Basic CSS.
+
+**Thoughts**: cool to start understanding how the syntax works, and also how Python is so fucking easier to write.
