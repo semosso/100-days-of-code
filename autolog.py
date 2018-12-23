@@ -11,8 +11,17 @@ if pago == "y":
     daily_progress = input("> ")
     print("Any thoughts on the work you did today or plan on doing tomorrow?")
     daily_thoughts = input("> ")
-    print("And what projects did you work on?")
-    daily_project = input("> ")
+    print("Did you work on any specific projects? (Y/N)")
+    daily_project = input("> ").lower()
+    
+    if daily_project == "y":
+        print("Cool! What's it called?")
+        project_name = input("> ")
+        print("Did you push it to Github? If so, add the link now.")
+        project_link = input("> ").lower()
+
+        if project_link.startswith("http"):
+            project_name = f"<a href={project_link}>{project_name}</a>"
     
     today_date = datetime.date.today().strftime(f"%B %d, %Y, %A")
 
@@ -20,7 +29,7 @@ if pago == "y":
 **{today_date}**\n
 **Progress**: {daily_progress}\n
 **Thoughts**: {daily_thoughts}\n
-**Project**: {daily_project}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
+**Project**: <a html=>{daily_project}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
 
     print("Do you want to push this log change to Github? (Y/N)")
     push = input("> ").lower()
