@@ -34,7 +34,7 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Projects**: Very dumb study drill from LPTHW just to test if-elif-else statements: <a href=https://github.com/semosso/lpthw/blob/master/ex31_new-game.py>exercise 31</a>
 
-**December 22, 2018, Saturday**
+**Day 3: December 22, 2018, Saturday**
 
 **Progress**: Created a little thingy to automatize my daily log entry re: 100 days of code. Took me at least 3h.
 

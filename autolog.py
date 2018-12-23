@@ -22,11 +22,14 @@ if pago == "y":
 
         if project_link.startswith("http"):
             project_name = f"<a href={project_link}>{project_name}</a>" # trying to add link to project... let's see
+    else:
+        project_name = "No project."
     
     today_date = datetime.date.today().strftime(f"%B %d, %Y, %A")
+    which_day =  datetime.date.today() - datetime.date(2018, 12, 19) # looks dirty, there's gotta be a better way
 
     open(log_main, "a+").write(f"""\n
-**{today_date}**\n
+**Day {which_day.days}: {today_date}**\n
 **Progress**: {daily_progress}\n
 **Thoughts**: {daily_thoughts}\n
 **Project**: {project_name}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
