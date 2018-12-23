@@ -38,6 +38,6 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Progress**: Created a little thingy to automatize my daily log entry re: 100 days of code. Took me at least 3h.
 
-**Thoughts**: Very excited to finally be doing something. Very cool to look online for answer to problems and to  possible solutions on how to get what I wanted to do. Hope to burn through a few LPTHW exercises tomorrow.
+**Thoughts**: Very excited to finally be doing something. Very cool to look online for answer to problems and to possible solutions on how to get what I wanted to do. Hope to burn through a few LPTHW exercises tomorrow.
 
-**Project**: <a html=>y
+**Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Autolog</a>
