@@ -21,7 +21,7 @@ if pago == "y":
         project_link = input("> ").lower()
 
         if project_link.startswith("http"):
-            project_name = f"<a href={project_link}>{project_name}</a>"
+            project_name = f"<a href={project_link}>{project_name}</a>" # trying to add link to project... let's see
     
     today_date = datetime.date.today().strftime(f"%B %d, %Y, %A")
 
@@ -29,7 +29,7 @@ if pago == "y":
 **{today_date}**\n
 **Progress**: {daily_progress}\n
 **Thoughts**: {daily_thoughts}\n
-**Project**: <a html=>{daily_project}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
+**Project**: {project_name}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
 
     print("Do you want to push this log change to Github? (Y/N)")
     push = input("> ").lower()
