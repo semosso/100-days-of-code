@@ -33,3 +33,39 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Cool to start understanding how HTML/CSS syntax works, and also to notice how Python is so fucking easier to write. In LPTHW, excited to begin using logic, will be important to keep in mind ideas of BRANCHES and NESTING.
 
 **Projects**: Very dumb study drill from LPTHW just to test if-elif-else statements: <a href=https://github.com/semosso/lpthw/blob/master/ex31_new-game.py>exercise 31</a>
+
+
+**December 22, 2018, Saturday**
+
+
+**Progress**: a
+
+
+**Thoughts**:b
+
+
+**Project**:c
+
+
+**December 22, 2018, Saturday**
+
+
+**Progress**: 1
+
+
+**Thoughts**:2
+
+
+**Project**:3
+
+
+**December 22, 2018, Saturday**
+
+
+**Progress**: 1
+
+
+**Thoughts**:2
+
+
+**Project**:3
