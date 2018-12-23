@@ -34,38 +34,10 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Projects**: Very dumb study drill from LPTHW just to test if-elif-else statements: <a href=https://github.com/semosso/lpthw/blob/master/ex31_new-game.py>exercise 31</a>
 
-
 **December 22, 2018, Saturday**
 
+**Progress**: Worked on a script to automatize my 100 days of code log input, formatting and commit/push to git.
 
-**Progress**: a
+**Thoughts**: Happy about thinking of the project. I assume it's very dirty and amateurish, but still feels good. Will try to get a few LPTHW exercises tomorrow.
 
-
-**Thoughts**:b
-
-
-**Project**:c
-
-
-**December 22, 2018, Saturday**
-
-
-**Progress**: 1
-
-
-**Thoughts**:2
-
-
-**Project**:3
-
-
-**December 22, 2018, Saturday**
-
-
-**Progress**: 1
-
-
-**Thoughts**:2
-
-
-**Project**:3
+**Project**: Autolog.

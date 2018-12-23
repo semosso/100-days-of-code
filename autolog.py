@@ -16,11 +16,11 @@ if pago == "y":
     
     today_date = datetime.date.today().strftime(f"%B %d, %Y, %A")
 
-    open(log_main, "a+").write(f"""\n\n
-**{today_date}**\n\n
-**Progress**: {daily_progress}\n\n
-**Thoughts**:{daily_thoughts}\n\n
-**Project**:{daily_project}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
+    open(log_main, "a+").write(f"""\n
+**{today_date}**\n
+**Progress**: {daily_progress}\n
+**Thoughts**: {daily_thoughts}\n
+**Project**: {daily_project}""") # this looks wrong because it seems I'm breaking indent, but I'm not if its within the string
 
     print("Do you want to push this log change to Github? (Y/N)")
     push = input("> ").lower()
