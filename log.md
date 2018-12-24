@@ -41,3 +41,11 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Very excited to finally be doing something. Very cool to look online for answer to problems and to possible solutions on how to get what I wanted to do. Hope to burn through a few LPTHW exercises tomorrow.
 
 **Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Autolog</a>
+
+**Day 5: December 24, 2018, Monday**
+
+**Progress**: Worked on ex32 and 33 from LPTHW. Coincidence to learn while-loop just as TakTakai had mentioned it.
+
+**Thoughts**: Cool study drills from ex 33, now I have to nail the difference between while and for-loop and how the increment got messed up; is it messed up or is that a difference between the structures? Try to find out tomorrow. Good to have kept streak even with 12+ hour work.
+
+**Project**: <a href=https://github.com/semosso/lpthw/blob/master/ex33.py>ex33</a>
