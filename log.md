@@ -42,13 +42,14 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Autolog</a>
 
-**Day 5: December 24, 2018, Monday**
+**Day 4: December 24, 2018, Monday**
 
 **Progress**: Worked on ex32 and 33 from LPTHW. Coincidence to learn while-loop just as TakTakai had mentioned it.
 
 **Thoughts**: Cool study drills from ex 33, now I have to nail the difference between while and for-loop and how the increment got messed up; is it messed up or is that a difference between the structures? Try to find out tomorrow. Good to have kept streak even with 12+ hour work.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/ex33.py>ex33</a>
+<<<<<<< HEAD
 
 **Day 5: December 24, 2018, Monday**
 
@@ -65,3 +66,5 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: 1234
 
 **Project**: No project.
+=======
+>>>>>>> b9c33a082ecd71469e619ca816d6868f92d2b637
