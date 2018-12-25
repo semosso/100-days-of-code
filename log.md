@@ -49,3 +49,6 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Cool study drills from ex 33, now I have to nail the difference between while and for-loop and how the increment got messed up; is it messed up or is that a difference between the structures? Try to find out tomorrow. Good to have kept streak even with 12+ hour work.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/ex33.py>ex33</a>
+
+**December 24, 2018, Monday***
+Nothing today.
