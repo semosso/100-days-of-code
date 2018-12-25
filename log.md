@@ -50,5 +50,18 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/ex33.py>ex33</a>
 
-**December 24, 2018, Monday***
-Nothing today.
+**Day 5: December 24, 2018, Monday**
+
+**Progress**: 12
+
+**Thoughts**: 1212
+
+**Project**: No project.
+
+**Day 5: December 24, 2018, Monday**
+
+**Progress**: 1212
+
+**Thoughts**: 1234
+
+**Project**: No project.
