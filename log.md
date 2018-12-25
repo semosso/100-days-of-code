@@ -42,7 +42,7 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Autolog</a>
 
-**Day 4: December 24, 2018, Monday**
+**Day 4: December 23, 2018, Monday**
 
 **Progress**: Worked on ex32 and 33 from LPTHW. Coincidence to learn while-loop just as TakTakai had mentioned it.
 
