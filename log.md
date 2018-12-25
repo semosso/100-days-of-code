@@ -44,7 +44,7 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Day 4: December 23, 2018, Monday**
 
-**Progress**: Worked on ex32 and 33 from LPTHW. Coincidence to learn while-loop just as TakTakai had mentioned it.
+**Progress**: Worked on ex32 and 33 from LPTHW. Coincidence to learn while-loop just as Takai had mentioned it.
 
 **Thoughts**: Cool study drills from ex 33, now I have to nail the difference between while and for-loop and how the increment got messed up; is it messed up or is that a difference between the structures? Try to find out tomorrow. Good to have kept streak even with 12+ hour work.
 
