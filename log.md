@@ -20,13 +20,13 @@ Off the top of my head and without any basis to set these, here goes:
 
 ## Daily logs (progress, thoughts)
 
-**Day 1: December 20, 2018, Thursday**
+**Day 1: December 20, 2018**
 
 **Progress**: During off time at work, did most of the Basic HTML and HTML5 tutorial on freeCodeCamp.
 
 **Thoughts**: Doubtful about whether I should keep working on front or back-end stuff, especially if I'll be able to find back-end projects to keep me motivated throughout.
 
-**Day 2: December 21, 2018, Thursday**
+**Day 2: December 21, 2018**
 
 **Progress**: During off time at work, finished Basic HTML and HTML5 tutorial on freeCodeCamp, and got about 15% of the Basic CSS (up to about the padding exercises). Later at home, did exercises 27 through 31 of LPTHW.
 
@@ -34,7 +34,7 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Projects**: Very dumb study drill from LPTHW just to test if-elif-else statements: <a href=https://github.com/semosso/lpthw/blob/master/ex31_new-game.py>exercise 31</a>
 
-**Day 3: December 22, 2018, Saturday**
+**Day 3: December 22, 2018**
 
 **Progress**: Created a little thingy to automatize my daily log entry re: 100 days of code. Took me at least 3h.
 
@@ -42,7 +42,7 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Autolog</a>
 
-**Day 4: December 23, 2018, Monday**
+**Day 4: December 23, 2018**
 
 **Progress**: Worked on ex32 and 33 from LPTHW. Coincidence to learn while-loop just as Takai had mentioned it.
 
@@ -50,7 +50,7 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/ex33.py>ex33</a>
 
-**Day 5: December 24, 2018, Monday**
+**Day 5: December 24, 2018**
 
 **Progress**: Worked on Takai comments to autolog. Worked on for/while loop exercises and branches/functions exercise (34).
 
@@ -59,7 +59,7 @@ Off the top of my head and without any basis to set these, here goes:
 **Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Revised Autolog</a>
 
 
-**Day 6: December 25, 2018, Tuesday**
+**Day 6: December 25, 2018**
 
 **Progress**: Worked for about 5h on nba game (ex 36 from lpthw). Very fun and challenging, I decided to add too much to it, far more than I know.
 
