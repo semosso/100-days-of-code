@@ -57,3 +57,12 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Iocused on streamlining things through functions. Keep that in mind.
 
 **Project**: <a href=https://github.com/semosso/100-days-of-code/blob/master/autolog.py>Revised Autolog</a>
+
+
+**Day 6: December 25, 2018, Tuesday**
+
+**Progress**: Worked for about 5h on nba game (ex 36 from lpthw). Very fun and challenging, I decided to add too much to it, far more than I know.
+
+**Thoughts**: Stack Overflow is your friend, bible, sword and axe.
+
+**Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA game 7</a>
