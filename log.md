@@ -66,3 +66,11 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Stack Overflow is your friend, bible, sword and axe.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA game 7</a>
+
+**Day 8: December 27, 2018**
+
+**Progress**: WOrking on NBA game. Ended up rewriting main functions (fix_input, check_lineup, check_squad) and not advancing anything else.
+
+**Thoughts**: Cool work, lots of texting and moving stuffing around, hopefully streamlining it. Tomorrow hope to start on scenarios.
+
+**Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game 7</a>
