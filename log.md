@@ -67,10 +67,18 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA game 7</a>
 
-**Day 8: December 27, 2018**
+**Day 7: December 26, 2018**
 
 **Progress**: WOrking on NBA game. Ended up rewriting main functions (fix_input, check_lineup, check_squad) and not advancing anything else.
 
 **Thoughts**: Cool work, lots of texting and moving stuffing around, hopefully streamlining it. Tomorrow hope to start on scenarios.
+
+**Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game 7</a>
+
+**Day 8: December 27, 2018**
+
+**Progress**: At least two hours working on NBA game, merged some functions (fix_input, check_lineup, check_squad), created others.
+
+**Thoughts**: Almost there, need to figure out how to make the counter work.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game 7</a>
