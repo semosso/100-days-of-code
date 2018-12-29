@@ -89,4 +89,4 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Thoughts**: Well... What I thought was working really wasn't, heh. Deleted both "gameplay" functions and will start from scratch. Maybe implementing counter inside for-loop is the answer.
 
-**Project**: NBA Game
+**Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game</a>
