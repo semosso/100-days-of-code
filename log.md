@@ -90,3 +90,12 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Well... What I thought was working really wasn't, heh. Deleted both "gameplay" functions and will start from scratch. Maybe implementing counter inside for-loop is the answer.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game</a>
+
+
+**Day 10: December 29, 2018**
+
+**Progress**: Finished NBA Game (fully works, although not as "complex" or clean as I once thought it would be. Satisfied though. Worked on simple virtual jar of good memories.
+
+**Thoughts**: Tomorrow plan on getting back to LPTHW normal study routine.
+
+**Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game</a> and <a href=https://github.com/semosso/stuff/blob/master/virtualjar.py>virtual jar</a>.

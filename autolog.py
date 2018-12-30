@@ -14,7 +14,6 @@ def YN_input(question): # sugestão do Takai; simplifica bastante todos os loops
     return answer
 
 def written_input(question):
-    answer = ''
     print(question)
     answer = input("> ")
     return answer
