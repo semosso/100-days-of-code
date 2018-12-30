@@ -83,14 +83,13 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game 7</a>
 
-**Day 10: December 29, 2018**
+**Day 9: December 28, 2018**
 
 **Progress**: Around 2h working on the NBA Game and how to get the counter working.
 
 **Thoughts**: Well... What I thought was working really wasn't, heh. Deleted both "gameplay" functions and will start from scratch. Maybe implementing counter inside for-loop is the answer.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game</a>
-
 
 **Day 10: December 29, 2018**
 
