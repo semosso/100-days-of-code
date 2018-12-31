@@ -98,3 +98,11 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Tomorrow plan on getting back to LPTHW normal study routine.
 
 **Project**: <a href=https://github.com/semosso/lpthw/blob/master/nbagame7.py>NBA Game</a> and <a href=https://github.com/semosso/stuff/blob/master/virtualjar.py>virtual jar</a>.
+
+**Day 11: December 30, 2018**
+
+**Progress**: Several exercises from LPTHW, starting to learn OOP.
+
+**Thoughts**: Excited to finally start learning the MEAT of the thing.
+
+**Project**: No project.
