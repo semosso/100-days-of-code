@@ -106,3 +106,19 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Excited to finally start learning the MEAT of the thing.
 
 **Project**: No project.
+
+**Day 12 - 16: December 31, 2018 to January 4, 2019**
+
+**Progress**: nothing.
+
+**Thoughts**: nothing.
+
+**Project**: nothing.
+
+**Day 18: January 06, 2019**
+
+**Progress**: Re-read exercises about OOP and classes. Added narratives to NBA game.
+
+**Thoughts**: Work on exercises to memorize and identify OOP lingo. Start game with classes.
+
+**Project**: No project.
