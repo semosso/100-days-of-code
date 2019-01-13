@@ -4,7 +4,7 @@ import subprocess # importing module to call new processes, needed to use GIT
 
 log_main = "log.md"
 today_date = datetime.date.today().strftime(f"%B %d, %Y")
-which_day =  datetime.date.today() - datetime.date(2018, 12, 19) # looks dirty, there's gotta be a better way
+which_day =  datetime.date.today() - datetime.date(2019, 1, 12) # looks dirty, there's gotta be a better way
 
 def YN_input(question): # sugestão do Takai; simplifica bastante todos os loops
     answer = '' # ingenious, sempre vejo acho ingenious, preciso começar a pensar nisso

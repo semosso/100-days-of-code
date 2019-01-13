@@ -115,10 +115,34 @@ Off the top of my head and without any basis to set these, here goes:
 
 **Project**: nothing.
 
-**Day 18: January 06, 2019**
+**Day 17: January 05, 2019**
 
 **Progress**: Re-read exercises about OOP and classes. Added narratives to NBA game.
 
 **Thoughts**: Work on exercises to memorize and identify OOP lingo. Start game with classes.
 
 **Project**: No project.
+
+**Day 18 - 23: January 6 to January 11, 2019**
+
+**Progress**: nothing.
+
+**Thoughts**: nothing.
+
+**Project**: nothing.
+
+**Day 1: January 12, 2019**
+
+**Progress**: Starting 100-days-of-code all over again. Reading/studying/exercizing a lot on classes and OOP.
+
+**Thoughts**: The meaty stuff is finally here... Hard to grasp, but full of potential.
+
+**Project**: No project.
+
+**Day 2: January 13, 2019**
+
+**Progress**: Classes and OOP, and commenting ex 43 exhaustively (alien adventure game). Ideas for next projects (e.g., f1 game, chess, tennis, chapéu seletor).
+
+**Thoughts**: Still hard to grasp, but began to understand init functions, self, and etc.
+
+**Project**: Not really a project, but my comments on <a href=https://github.com/semosso/lpthw/blob/master/ex43_classes.py>ex43</a> are good to keep in mind.
