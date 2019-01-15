@@ -146,3 +146,11 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Still hard to grasp, but began to understand init functions, self, and etc.
 
 **Project**: Not really a project, but my comments on <a href=https://github.com/semosso/lpthw/blob/master/ex43_classes.py>ex43</a> are good to keep in mind.
+
+**Day 2: January 14, 2019**
+
+**Progress**: Estudei classes documentation, especialmente scope e namespaces. Revisei comentários antigos (up to 30).
+
+**Thoughts**: Great to understand the linguo of documentation, and some of the underlying theory.
+
+**Project**: No project.
