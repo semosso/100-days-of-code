@@ -154,3 +154,19 @@ Off the top of my head and without any basis to set these, here goes:
 **Thoughts**: Great to understand the linguo of documentation, and some of the underlying theory.
 
 **Project**: No project.
+
+**Day 3: January 15, 2019**
+
+**Progress**: nothing
+
+**Thoughts**: nothing
+
+**Project**: nothing
+
+**Day 7: January 19, 2019**
+
+**Progress**: kept studying classes, started working on tennis game
+
+**Thoughts**: hard to think in object/classes way... doubtful about how to implement them
+
+**Project**: <a href=https://github.com/semosso/stuff/blob/master/tennis/tennis.py>tennis game</a>
