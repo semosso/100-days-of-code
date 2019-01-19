@@ -45,7 +45,7 @@ elif pago == "n":
     print("That's a shame.")
 
     with open(log_main, "a+") as f:
-        f.write(f"\n**Day {which_day.days}: {today_date}**\nNothing today.")
+        f.write(f"\n**Day {which_day.days}: {today_date}**\nnothing.")
 
 push = YN_input("Do you want to push this log change to Github?")
 
